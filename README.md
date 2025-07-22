@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A stackover flow inspired project using Next.js and Appwrite
 
 
@@ -25,9 +24,4 @@ This is a stackoverflow clone built with Next.js and Appwrite. It uses the [Appw
 
 You can build more features on top of this by adding more collections and indexes to the database. You can also add more routes to the application to handle more functionalities. The code is well documented and easy to understand, so you can customize it to your needs.
 
-## Youtube Tutorial
-
-You can find a youtube tutorial on how to build this project [here](https://www.youtube.com/@HiteshChoudharydotcom).
-=======
 # askhub
->>>>>>> 346691d1b5e81f4f45317883eaa0d5fd190d07aa
